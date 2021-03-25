@@ -1,10 +1,10 @@
 import React from 'react'
-import Setup from './tutorial/6-useReducer/setup'
+import Setup from './tutorial/7-prop-drilling/setup'
 
 function App() {
   return (
     <div className='container'>
-     
+
      <Setup />
     </div>
   )
